@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/loginmatricula"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/matricula"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/loginsenha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="@string/senha" />
+
+    <TextView
+        android:id="@+id/importStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/aguardando"
+        android:textSize="15dp" />
+
+    <ProgressBar
+        android:id="@+id/importProgress"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progressBackgroundTint="@color/colorGrey"
+        android:progressTint="@color/colorPrimaryDark" />
+
+</LinearLayout>

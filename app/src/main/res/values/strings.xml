@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Meu Suap</string>
+    <string name="author">David Nery</string>
+    <string name="sobremim">
+        Olá, me chamo David Nery e sou o desenvolvedor desse aplicativo!\n\n
+        Eu, assim como você, cursei o meu ensino médio no IFRN pelo curso Técnico Integrado em Informática.\n\n
+        Apesar de minha formação técnica, meu grande sonho é ser médico e poder ajudar ainda mais os outros.
+    </string>
+
+    <string name="calcularnotas">Calcular Notas</string>
+    <string name="alunossalvos">Alunos Salvos</string>
+    <string name="disciplinassalvas">Disciplinas Salvas</string>
+    <string name="tarefassalvas">Tarefas Salvas</string>
+    <string name="desenvolvido">Desenvolvido por David Nery</string>
+
+    <string name="semalunos">Não existem alunos cadastrados. Clique no "+" para cadastrar um novo aluno!</string>
+    <string name="semtarefas">Não existem tarefas cadastradas. Clique no "+" para cadastrar uma nova tarefa!</string>
+
+    <string name="nota1">Nota 1</string>
+    <string name="nota2">Nota 2</string>
+    <string name="nota3">Nota 3</string>
+    <string name="nota4">Nota 4</string>
+
+    <string name="btncalcular">Calcular</string>
+
+    <string name="matricula">Informe sua matricula</string>
+    <string name="senha">Informe sua senha</string>
+
+    <string name="btnlogar">Logar</string>
+    <string name="btnok">Já vi</string>
+    <string name="btncancelar">Cancelar</string>
+    <string name="btnapagar">Apagar</string>
+    <string name="btncriar">Criar</string>
+
+    <string name="aguardando">Aguardando comando...</string>
+    <string name="solicitandotoken">Solicitando seu token...</string>
+    <string name="solicitandoinfo">Solicitando suas informações...</string>
+    <string name="solicitandodiarios">Solicitando diarios...</string>
+    <string name="salvandomaterias">Salvando matérias...</string>
+
+    <string name="configuracoes">APPCONFIG</string>
+
+    <string name="configurar">Configurar APP</string>
+    <string name="configanuais">Configurações das matérias anuais</string>
+    <string name="configsem">Configurações das matérias semestrais</string>
+    <string name="configextra">Configurações extra</string>
+    <string name="configpeso1">Peso do primeiro bimestre:</string>
+    <string name="configpeso2">Peso do segundo bimestre:</string>
+    <string name="configpeso3">Peso do terceiro bimestre:</string>
+    <string name="configpeso4">Peso do quarto bimestre:</string>
+    <string name="configvnn">Habilitar verificação de novas notas:</string>
+
+    <string name="salvar">Salvar</string>
+    <string name="salvartudo">Salvar tudo</string>
+
+    <string name="tarefanome">Informe um nome para tarefa</string>
+    <string name="tarefadescricao">Informe uma descrição para tarefa (opcional)</string>
+    <string name="tarefadata">Clique aqui e selecione para quando é esta tarefa</string>
+
+</resources>
